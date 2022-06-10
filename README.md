@@ -4,5 +4,5 @@ I'm a student at the University of Leeds, I enjoy a variety of topics, mainly fo
 
 ## Interested in:
 - Self Hosted Services
-- 3D Printing
+- 3D Modelling/Printing
 - PC Building/Maintainence
