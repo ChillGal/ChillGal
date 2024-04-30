@@ -7,3 +7,4 @@ I'm a computer science student at the University of Leeds, I enjoy a variety of 
 - 3D Modelling/Printing
 - PC Building/Maintainence
 - Gaming
+- Android Rooting/Custom ROM development
