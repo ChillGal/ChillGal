@@ -8,3 +8,6 @@ I'm a computer science student at the University of Leeds, I enjoy a variety of 
 - PC Building/Maintainence
 - Gaming
 - Android Rooting/Custom ROM development
+
+## SUBSCRIPTION BASED SERVICES ARE THE BANE OF TECHNOLOGY
+FOSS is the way forward.
