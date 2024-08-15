@@ -1,6 +1,6 @@
 # **Welcome! :P**
 
-I'm a computer science student at the University of Leeds, I enjoy a variety of topics including networking and cyber security. 
+I'm a Computer Science Graduate from the University of Leeds, I enjoy a variety of topics including networking and cyber security. 
 
 ## Interested in:
 - Self Hosted Services
