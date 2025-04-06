@@ -1,6 +1,6 @@
 # **Welcome! :P**
 
-I'm a Computer Science Graduate from the University of Leeds, I enjoy a variety of topics including networking and cyber security. 
+I'm a Computer Science Graduate from the University of Leeds, I enjoy a variety of topics including networking and cyber security. Primarily interested in embedded devices.
 
 ## Interested in:
 - Self Hosted Services
@@ -8,6 +8,5 @@ I'm a Computer Science Graduate from the University of Leeds, I enjoy a variety 
 - PC Building/Maintainence
 - Gaming
 - Android Rooting/Custom ROM development
-
-## SUBSCRIPTION BASED SERVICES ARE THE BANE OF TECHNOLOGY
-FOSS is the way forward.
+- PCB design
+- Embedded software
